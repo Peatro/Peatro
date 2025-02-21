@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peatro
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity3D
+- 👀 I’m interested in Java/Kotlin Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me: Discord - Peatro#4107; Mail - PeatroXD@yandex.ru;
 
