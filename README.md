@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peatro
+- 👋 Hi, I’m @Peatro or Aleksey Bobrov
 - 👀 I’m interested in Java/Kotlin Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on making games
