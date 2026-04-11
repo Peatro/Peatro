@@ -49,5 +49,5 @@ High-speed MTProto proxy checker (1000 proxies < 1 min)
 
 ## 📫 Contact
 
-- Telegram: @your_nick
-- Email: your_email
+- Telegram: @peatroxd
+- Email: peatroxd@yandex.ru | peatroxd@gmail.com
