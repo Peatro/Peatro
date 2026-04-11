@@ -1,10 +1,53 @@
-- 👋 Hi, I’m @Peatro or Aleksey Bobrov
-- 👀 I’m interested in Java/Kotlin Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on making games
-- 📫 How to reach me: Discord - Peatro#4107; Mail - PeatroXD@yandex.ru;
+# 👋 Hi, I'm Alexey
 
-<!---
-Peatro/Peatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend developer focused on building real-world systems, not just pet projects.
+
+---
+
+## 🚀 Current Focus
+
+- 🎬 StreamCut — AI-powered VOD processing pipeline
+- 🌐 Mtprototest — high-performance MTProto proxy checker
+
+---
+
+## 🧠 Tech Stack
+
+- Java 21, Spring Boot
+- PostgreSQL, Liquibase
+- Docker, MinIO
+- Python (AI workers, Whisper)
+
+---
+
+## ⚙️ What I build
+
+- scalable backend services
+- async processing systems
+- real integrations (AI, storage, streaming)
+
+---
+
+## 📌 Featured Projects
+
+### 🎬 StreamCut
+AI pipeline for video processing:
+- transcription
+- silence cutting
+- highlight detection
+
+👉 https://github.com/Peatro/StreamCutProject
+
+---
+
+### 🌐 Mtprototest
+High-speed MTProto proxy checker (1000 proxies < 1 min)
+
+👉 https://github.com/Peatro/Mtprototest
+
+---
+
+## 📫 Contact
+
+- Telegram: @your_nick
+- Email: your_email
