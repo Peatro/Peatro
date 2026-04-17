@@ -9,7 +9,7 @@ Testcontainers · Selenide · GitHub Actions · Prometheus
 
 ## 🚀 Projects
 
-### MtProxyCheck · [mtproxycheck.ru](https://mtprotocheck.ru)
+### MtProxyCheck · [mtproxycheck.ru](https://mtproxycheck.ru)
 Live B2C service for collecting, validating, ranking and 
 distributing public Telegram MTProto proxies.  
 → https://github.com/Peatro/MtProxyCheck
